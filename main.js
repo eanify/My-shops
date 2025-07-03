@@ -1,0 +1,1 @@
+console.log('Intanational Shops frontend loaded');
